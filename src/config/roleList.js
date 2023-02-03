@@ -1,0 +1,18 @@
+const ROLE_LIST = {
+    "SYSTEM_ADMIN": "637365886ab31e8740121884",
+    "HOTEL_ADMIN": "63be5f1ad6c2195549d85a81",
+    "KITCHEN_ADMIN": "637366096ab31e8740121889",
+    "HR_ADMIN": "63d111e6fccb2dc4148fee00",
+    "OFFICE_STAFF": "63d4bd606db7869905faf6ef",
+    "RECEPTIONIST": "63be8a9884c665ede33342c6",
+    "ROOM_SERVICE": "63c7784dbecbeb16e2d1b373",
+    "HOUSEKEEPING": "63c77ba8becbeb16e2d1b3b1",
+    "SERVICE_BOY": "63cdfe975eb2975c2b84005e",
+    "RESTAURANT_MANAGER": "63c775d8becbeb16e2d1b34e",
+    "CHEF": "63cad4c6ae2b5da042a01488",
+    "JOUNIER_CHEF": "63cada4e9c22c16ca46ef2f0",
+    "TECHNION": "63d4be756db7869905faf6f1",
+    
+}
+
+module.exports = ROLE_LIST
