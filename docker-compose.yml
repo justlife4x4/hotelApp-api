@@ -9,7 +9,7 @@ services:
     volumes: 
       - ./mongo_db:/data/db
 
-# Node JS API https://www.youtube.com/watch?v=vm3YfOHf_Cc
+# Node JS API
   api:
     container_name: api_container
     build: .
